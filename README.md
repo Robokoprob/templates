@@ -2,6 +2,6 @@
 
 Git repository for my templates
 
-## ReactWebsite
+## React Website Template
 
 React template with webpack and babel
