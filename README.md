@@ -4,4 +4,4 @@ Git repository for my templates
 
 ## ReactWebsite
 
-Reat template with webpack and babel
+React template with webpack and babel
